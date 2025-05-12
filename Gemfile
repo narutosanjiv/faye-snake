@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 
-gem 'sinatra'
+gem 'sinatra', '>= 4.0.0'
 gem 'haml'
-gem 'faye'
+gem 'faye', '>= 0.8.0'
